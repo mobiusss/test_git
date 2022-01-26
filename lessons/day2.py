@@ -7,3 +7,6 @@ print(df_dairy)
 
 df_next = dfs[1]
 print(df_next)
+
+df_another = dfs[2]
+print(df_another)
